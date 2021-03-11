@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Duenas\\Desktop\\Paolo\\POO012021\\Practica1\\Programa1\\Programa1.csproj",
-      "projectName": "Programa1",
-      "projectPath": "C:\\Users\\Duenas\\Desktop\\Paolo\\POO012021\\Practica1\\Programa1\\Programa1.csproj",
+      "projectUniqueName": "C:\\Users\\Duenas\\Desktop\\Paolo\\POO012021\\Practica1\\Program1\\Program1.csproj",
+      "projectName": "Program1",
+      "projectPath": "C:\\Users\\Duenas\\Desktop\\Paolo\\POO012021\\Practica1\\Program1\\Program1.csproj",
       "packagesPath": "C:\\Users\\Duenas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Duenas\\Desktop\\Paolo\\POO012021\\Practica1\\Programa1\\obj\\",
+      "outputPath": "C:\\Users\\Duenas\\Desktop\\Paolo\\POO012021\\Practica1\\Program1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Duenas\\AppData\\Roaming\\NuGet\\NuGet.Config"
