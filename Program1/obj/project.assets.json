@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Duenas\\.nuget\\packages\\": {}
+    "C:\\Users\\Vásquez\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Duenas\\Desktop\\Paolo\\POO012021\\Practica1\\Program1\\Program1.csproj",
+      "projectUniqueName": "C:\\Users\\Vásquez\\Documents\\Workspaces\\POO\\ClanYakuza_POO012021\\Program1\\Program1.csproj",
       "projectName": "Program1",
-      "projectPath": "C:\\Users\\Duenas\\Desktop\\Paolo\\POO012021\\Practica1\\Program1\\Program1.csproj",
-      "packagesPath": "C:\\Users\\Duenas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Duenas\\Desktop\\Paolo\\POO012021\\Practica1\\Program1\\obj\\",
+      "projectPath": "C:\\Users\\Vásquez\\Documents\\Workspaces\\POO\\ClanYakuza_POO012021\\Program1\\Program1.csproj",
+      "packagesPath": "C:\\Users\\Vásquez\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vásquez\\Documents\\Workspaces\\POO\\ClanYakuza_POO012021\\Program1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Duenas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Vásquez\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
